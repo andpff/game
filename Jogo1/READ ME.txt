@@ -1,0 +1,4 @@
+// Game created during the DIO bootcamp program.
+
+This game has been created thru a serie of classes where the instructor provides the guidance/written codes and studens combine puzzle 
+pieces to the end have a complete and functional game.
